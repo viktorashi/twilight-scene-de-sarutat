@@ -1,8 +1,9 @@
 from gtts import gTTS
 import pygame
 from io import BytesIO
-from playsound import playsound
-from sys import argv
+from sys import argv    
+import os
+
 
 
 def say(text):
@@ -17,6 +18,6 @@ def say(text):
         pygame.time.Clock().tick(10)
 
 
-playsound('part1.mp3')
+os.system('afplay -v 10 part1.mp3 ')
 say(argv[1])
-playsound('part2.mp3')
+os.system('afplay -v 10 part2.mp3 ')

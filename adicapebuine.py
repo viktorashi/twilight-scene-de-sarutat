@@ -17,6 +17,6 @@ def say(text):
         pygame.time.Clock().tick(10)
 
 
-playsound('part1.mp3')
+playsound('C:\\Users\Victor\PycharmProjects\\twilight-scene-de-sarutat\\part2.mp3')
 say(argv[1])
-playsound('part2.mp3')
+# playsound('part2.mp3')

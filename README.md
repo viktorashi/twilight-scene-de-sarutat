@@ -1,4 +1,4 @@
-## Deocamdata doar brancheu pt macos merge lmao
+## Deocamdata doar brancheu asta pt macos merge lmao
 
 #### De folosit cand te uiti la twilight (dusk 3) si sa dau count la scena de sarutat 
 
